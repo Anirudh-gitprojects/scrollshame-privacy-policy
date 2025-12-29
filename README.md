@@ -22,13 +22,13 @@ Accessibility Service Usage
 
     The Accessibility Service is not used to:
 
-    Read personal messages, emails, or content
+        Read personal messages, emails, or content
 
-    Capture keystrokes
+        Capture keystrokes
 
-    Record screen content
+        Record screen content
 
-    Access passwords or sensitive input
+        Access passwords or sensitive input
 
 All data accessed through Accessibility Services is used only on-device to support user-requested features and is not shared, stored remotely, or sold to third parties.
 
