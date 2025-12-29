@@ -18,17 +18,17 @@ The Application does not collect precise location information about your mobile 
 
 Accessibility Service Usage
 
-    The Application uses Android Accessibility Services solely to provide its core functionality, which includes detecting app usage and displaying intervention prompts to help users reduce excessive scrolling.
+The Application uses Android Accessibility Services solely to provide its core functionality, which includes detecting app usage and displaying intervention prompts to help users reduce excessive scrolling.
 
-    The Accessibility Service is not used to:
+The Accessibility Service is not used to:
 
-        Read personal messages, emails, or content
+Read personal messages, emails, or content
 
-        Capture keystrokes
+Capture keystrokes
 
-        Record screen content
+Record screen content
 
-        Access passwords or sensitive input
+Access passwords or sensitive input
 
 All data accessed through Accessibility Services is used only on-device to support user-requested features and is not shared, stored remotely, or sold to third parties.
 
